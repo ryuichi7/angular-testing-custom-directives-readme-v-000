@@ -13,5 +13,4 @@ describe('Directive Test', function() {
 
 		expect(count.getInnerHtml()).toEqual('Current count: 1');
 	});
-
 });
